@@ -107,11 +107,23 @@ A product search engine that scrapes data from local Ethiopian e-commerce sites 
 ---
 
 ## 👨‍💻 About Me
+I'm Bsrat Wellerufael, a passionate and results-driven Full-Stack Software Engineer. I specialize in designing and developing modern, high-performance web applications with a strong emphasis on clean architecture, scalable APIs, and exceptional developer experience.
 
-I'm **Bsrat**, a full-stack developer based in **Mekelle, Tigray, Ethiopia**, building modern, performant applications with a strong focus on **clean architecture**, **scalable APIs**, and **developer experience**. I love learning new technologies and contributing to projects that make a difference.
+With a solid background in both frontend and backend technologies, I build solutions that are not only functional but also intuitive and user-focused. My projects often involve real-world problem solving — from automating business processes to scraping and comparing prices for local Ethiopian marketplaces.
 
-🧠 Currently diving deeper into **DevOps** — mastering Docker, CI/CD pipelines, and container orchestration with Kubernetes.
+I thrive in fast-paced, collaborative environments, and I’m constantly looking for ways to push boundaries by experimenting with new tools and technologies.
 
+🔍 Current Focus:
+I'm diving deeper into the world of DevOps — mastering tools and practices like:
+
+🐳 Docker for containerization
+
+🔁 CI/CD pipelines for automated deployment
+
+☸️ Kubernetes for orchestration and scaling microservices
+
+💡 What drives me:
+I'm driven by a desire to create impactful, accessible software that empowers users and communities — especially in the context of Ethiopia and emerging markets.
 ---
 
 ## 🛠️ Tech Stack
